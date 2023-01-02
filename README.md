@@ -12,6 +12,10 @@
 endrms1995@gmail.com
 
 
+### 🏠 Blog 🏠
+
+https://velog.io/@marinred
+
 ## 🔧 Stack 🔧
 
 🧑‍💻 Used as the main 🧑‍💻  
